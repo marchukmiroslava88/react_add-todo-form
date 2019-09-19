@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/marchukmiroslava88/react_add-todo-form/static/css/main.92b51ff6.chunk.css",
+    "main.css": "/marchukmiroslava88/react_add-todo-form/static/css/main.b9a0b4d2.chunk.css",
     "main.js": "/marchukmiroslava88/react_add-todo-form/static/js/main.e5570c15.chunk.js",
     "main.js.map": "/marchukmiroslava88/react_add-todo-form/static/js/main.e5570c15.chunk.js.map",
     "runtime~main.js": "/marchukmiroslava88/react_add-todo-form/static/js/runtime~main.7946dd43.js",
@@ -8,8 +8,8 @@
     "static/js/2.ddaedf44.chunk.js": "/marchukmiroslava88/react_add-todo-form/static/js/2.ddaedf44.chunk.js",
     "static/js/2.ddaedf44.chunk.js.map": "/marchukmiroslava88/react_add-todo-form/static/js/2.ddaedf44.chunk.js.map",
     "index.html": "/marchukmiroslava88/react_add-todo-form/index.html",
-    "precache-manifest.418fb58e9ed18aae637c2c691e43ab25.js": "/marchukmiroslava88/react_add-todo-form/precache-manifest.418fb58e9ed18aae637c2c691e43ab25.js",
+    "precache-manifest.54f830951dfc0e919a35d415cf7e2e48.js": "/marchukmiroslava88/react_add-todo-form/precache-manifest.54f830951dfc0e919a35d415cf7e2e48.js",
     "service-worker.js": "/marchukmiroslava88/react_add-todo-form/service-worker.js",
-    "static/css/main.92b51ff6.chunk.css.map": "/marchukmiroslava88/react_add-todo-form/static/css/main.92b51ff6.chunk.css.map"
+    "static/css/main.b9a0b4d2.chunk.css.map": "/marchukmiroslava88/react_add-todo-form/static/css/main.b9a0b4d2.chunk.css.map"
   }
 }
